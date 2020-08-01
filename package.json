@@ -1,0 +1,15 @@
+{
+  "name": "array-to-obj",
+  "version": "0.0.1",
+  "description": "converts array to object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Shikha Saboo",
+  "license": "MIT"
+}
